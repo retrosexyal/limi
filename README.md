@@ -1,11 +1,15 @@
 # LIMI v2
 
-Fullstack Pet Project using **NestJS**, **PostgreSQL**, and **Docker**.
+Fullstack Pet Project using **NestJS**, **PostgreSQL**, **React/Vite** and **Docker**.
 
 ---
 
 ## 📦 Project structure
 
+backend/shared - for general types
+
+frontend - react/vite
+backend - nest, postgreSQL
 
 ---
 
@@ -20,5 +24,11 @@ Fullstack Pet Project using **NestJS**, **PostgreSQL**, and **Docker**.
 
 ### 📦 Build and run with Docker
 
+#### Deploy
+
+https://limi.onrender.com/
+
 ```bash
 docker compose up --build
+
+
